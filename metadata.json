@@ -1,0 +1,8 @@
+{
+  "name": "Tes Sumatif Koding",
+  "description": "Aplikasi Tes Sumatif Koding dan Kecerdasan Artifisial Materi Logika dan Algoritma Kelas V SD Negeri 3 Loloan Timur dengan 4 tahap tes, sinkronisasi Google Spreadsheet, unduh PDF naskah & hasil tes, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
